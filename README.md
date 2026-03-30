@@ -31,4 +31,4 @@ The first step is to go to the **[n8n Docker Documentation](https://docs.n8n.io/
 
 ## Conclusion
 
-This Dashboard and the analyze made have insights of whose professionals are more indicate for each case, depending of the city.
+This is a POC.
